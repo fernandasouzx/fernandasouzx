@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 estudante de c.computação - ufmt<br>processamento de audio e ciencia de dados
 
 
