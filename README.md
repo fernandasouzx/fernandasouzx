@@ -22,5 +22,4 @@ Tenho interesse em IA, Engenharia de Dados e séries temporais, com foco em cons
   <img src="https://skillicons.dev/icons?i=pandas,numpy" />
 </p>
 
----
 ![](https://visitcount.itsvg.in/api?id=fernandasouzx&icon=0&color=0)
