@@ -1,4 +1,5 @@
 # 💫 About Me:
+Oii, sou a Fernanda!
 Estudante de Ciência da Computação na UFMT  
 Atuação em processamento de áudio (TTS & STT) e Ciência de Dados  
 
@@ -25,12 +26,13 @@ Foco em construir soluções orientadas a dados com impacto real
 
 ---
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fernandasouzx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
+# GitHub Stats:# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=fernandasouzx&show_icons=true&theme=tokyonight)
 
-![](https://nirzak-streak-stats.vercel.app/?user=fernandasouzx&theme=dark&hide_border=false)  
+![](https://streak-stats.demolab.com?user=fernandasouzx&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasouzx&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasouzx&layout=compact&theme=tokyonight)
+![](https://nirzak-streak-stats.ve
 
 ---
 
