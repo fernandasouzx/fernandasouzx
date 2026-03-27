@@ -41,6 +41,18 @@ Tenho interesse em IA, Engenharia de Dados e séries temporais, com foco em cons
 
 ---
 
+## 🚀 Principais Repositórios
+
+<p align="center">
+  <a href="https://github.com/fernandasouzx/NOME-DO-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=NOME-DO-REPO&theme=tokyonight"/>
+  </a>
+
+  <a href="https://github.com/fernandasouzx/NOME-DO-REPO2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=NOME-DO-REPO2&theme=tokyonight"/>
+  </a>
+</p>
+
 ## 🚀 Featured Projects:
 
 🔊 **TTS/STT com IA**  
