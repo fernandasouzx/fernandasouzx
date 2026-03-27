@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Fernanda%20Souza&fontSize=35&fontColor=ffffff"/>
 # 💫 About Me:
 Oii, sou a Fernanda!
 
@@ -9,7 +10,7 @@ Foco em construir soluções orientadas a dados com impacto real
 
 ---
 
-## 🚀 Tech Stack:
+## Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,sklearn" />
 </p>
@@ -20,7 +21,7 @@ Foco em construir soluções orientadas a dados com impacto real
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fernandasouzx&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasouzx&layout=compact&theme=tokyonight" height="150"/>
@@ -32,12 +33,11 @@ Foco em construir soluções orientadas a dados com impacto real
 
 ---
 
-## 📈 Activity Graph:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=fernandasouzx&theme=tokyo-night)
 
 ---
 
-## 🚀 Featured Projects:
+## Featured Projects:
 - 🔊 TTS/STT com IA — processamento de áudio  
 - 📊 Séries temporais — análise e criação de features  
 - ⚙️ Pipeline de dados — ETL e preparação para BI  
