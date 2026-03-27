@@ -18,7 +18,6 @@ Tenho interesse em IA, Engenharia de Dados e séries temporais, com foco em cons
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,sklearn" />
 </p>
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,numpy" />
 </p>
