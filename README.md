@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Fernanda%20Souza&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Data%20Engineering%20%7C%20TTS%20%26%20STT&descSize=18&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff758c,100:6a11cb&height=220&section=header&text=Fernanda%20Souza&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20Data%20Engineering%20%7C%20Audio%20Processing&descSize=20&descAlignY=65"/>
+
 # 💫 About Me:
 Oii, sou a Fernanda!
 
