@@ -26,25 +26,4 @@ Tenho interesse em IA, Engenharia de Dados e séries temporais, com foco em cons
 </p>
 
 ---
-
-## Principais Repositórios
-
-### 🔊 [Gerador de Conteúdo](https://github.com/fernandasouzx/GERADOR_CONTEUDO)
-Aplicação para geração automatizada de conteúdo utilizando técnicas de IA  
-
----
-
-### 🦠 [Predição de COVID com IA](https://github.com/fernandasouzx/PREDICAO_COVID_IA)
-Modelo preditivo para análise de dados epidemiológicos  
-
----
-
-### ♟️ [Problema das N-Rainhas](https://github.com/fernandasouzx/PROBLEMA_N_RAINHAS)
-Implementação de algoritmo clássico com foco em lógica e otimização  
-
----
-
-### 🗂️ [Organização Hierárquica de Dados](https://github.com/fernandasouzx/ORGANIZACAO_HIERARQUICA_DE_DADOS)
-Estruturação e manipulação de dados em formato hierárquico  
-
 ![](https://visitcount.itsvg.in/api?id=fernandasouzx&icon=0&color=0)
