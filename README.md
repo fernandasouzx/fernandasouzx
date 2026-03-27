@@ -42,58 +42,17 @@ Tenho interesse em IA, Engenharia de Dados e séries temporais, com foco em cons
 ---
 ## Principais Repositórios
 
-## 🚀 Principais Repositórios
+🔊 **[Gerador de Conteúdo](https://github.com/fernandasouzx/GERADOR_CONTEUDO)**  
+Aplicação para geração automatizada de conteúdo utilizando IA  
 
-<p align="center">
-  <a href="https://github.com/fernandasouzx/GERADOR_CONTEUDO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=GERADOR_CONTEUDO&theme=tokyonight"/>
-  </a>
-
-  <a href="https://github.com/fernandasouzx/PREDICAO_COVID_IA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=PREDICAO_COVID_IA&theme=tokyonight"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fernandasouzx/PROBLEMA_N_RAINHAS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=PROBLEMA_N_RAINHAS&theme=tokyonight"/>
-  </a>
-
-  <a href="https://github.com/fernandasouzx/ORGANIZACAO_HIERARQUICA_DE_DADOS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=ORGANIZACAO_HIERARQUICA_DE_DADOS&theme=tokyonight"/>
-  </a>
-</p>
-
----
-
-### 🧠 Sobre os projetos
-
-🔊 **Gerador de Conteúdo**  
-Aplicação para geração automatizada de conteúdo utilizando técnicas de IA  
-
-🦠 **Predição de COVID com IA**  
+🦠 **[Predição de COVID com IA](https://github.com/fernandasouzx/PREDICAO_COVID_IA)**  
 Modelo preditivo para análise de dados epidemiológicos  
 
-♟️ **Problema das N-Rainhas**  
-Implementação de algoritmo clássico com foco em lógica e otimização  
+♟️ **[Problema das N-Rainhas](https://github.com/fernandasouzx/PROBLEMA_N_RAINHAS)**  
+Algoritmo clássico com foco em lógica e otimização  
 
-🗂️ **Organização Hierárquica de Dados**  
-Estruturação e manipulação de dados em formato hierárquico  
-
----
-
-### Sobre os projetos
-
-🔊 **Gerador de Conteúdo**  
-Aplicação para geração automatizada de conteúdo utilizando técnicas de IA  
-
-🦠 **Predição de COVID com IA**  
-Modelo preditivo para análise de dados epidemiológicos  
-
-♟️ **Problema das N-Rainhas**  
-Implementação de algoritmo clássico com foco em lógica e otimização  
-
-🗂️ **Organização Hierárquica de Dados**  
+🗂️ **[Organização Hierárquica de Dados](https://github.com/fernandasouzx/ORGANIZACAO_HIERARQUICA_DE_DADOS)**  
+Estruturação e manipulação de dados hierárquicos  
 Estruturação e manipulação de dados em formato hierárquico  
 
 ![](https://visitcount.itsvg.in/api?id=fernandasouzx&icon=0&color=0)
