@@ -42,6 +42,8 @@ Tenho interesse em IA, Engenharia de Dados e séries temporais, com foco em cons
 ---
 ## Principais Repositórios
 
+## 🚀 Principais Repositórios
+
 <p align="center">
   <a href="https://github.com/fernandasouzx/GERADOR_CONTEUDO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=GERADOR_CONTEUDO&theme=tokyonight"/>
@@ -61,6 +63,22 @@ Tenho interesse em IA, Engenharia de Dados e séries temporais, com foco em cons
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=ORGANIZACAO_HIERARQUICA_DE_DADOS&theme=tokyonight"/>
   </a>
 </p>
+
+---
+
+### 🧠 Sobre os projetos
+
+🔊 **Gerador de Conteúdo**  
+Aplicação para geração automatizada de conteúdo utilizando técnicas de IA  
+
+🦠 **Predição de COVID com IA**  
+Modelo preditivo para análise de dados epidemiológicos  
+
+♟️ **Problema das N-Rainhas**  
+Implementação de algoritmo clássico com foco em lógica e otimização  
+
+🗂️ **Organização Hierárquica de Dados**  
+Estruturação e manipulação de dados em formato hierárquico  
 
 ---
 
