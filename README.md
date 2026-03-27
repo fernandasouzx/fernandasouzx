@@ -11,9 +11,9 @@ Atuo com Inteligência Artificial aplicada a processamento de áudio (TTS & STT)
 
 Tenho interesse em IA, Engenharia de Dados e séries temporais, com foco em construir soluções orientadas a dados que gerem impacto real  
 
-#### Contatos: fer.souzx@gmail.com
-#### Linkedin:  https://www.linkedin.com/in/fernandasouzx/
-
+## Contato
+- 📧 Email: **fer.souzx@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/fernandasouzx/
 ---
 
 ## Tech Stack:
