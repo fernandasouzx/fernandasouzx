@@ -8,7 +8,7 @@ Oii, sou a Fernanda!
 Estudante de Ciência da Computação na UFMT  
 Atuo com Inteligência Artificial aplicada a processamento de áudio (TTS & STT) e Ciência de Dados  
 
-Tenho interesse em IA, Engenharia de Dados e séries temporais, com foco em construir soluções orientadas a dados que gerem impacto real  
+Tenho interesse em IA, Engenharia de Dados e séries temporais.
 
 ## Contato
 - 📧 Email: **fer.souzx@gmail.com**  
