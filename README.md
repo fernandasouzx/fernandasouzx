@@ -13,7 +13,7 @@ Tenho interesse em IA, Engenharia de Dados e séries temporais, com foco em cons
 
 ---
 
-## 🚀 Tech Stack:
+## Tech Stack:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,c,cpp,tensorflow,pytorch,sklearn" />
 </p>
@@ -24,7 +24,7 @@ Tenho interesse em IA, Engenharia de Dados e séries temporais, com foco em cons
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fernandasouzx&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandasouzx&layout=compact&theme=tokyonight" height="150"/>
@@ -36,34 +36,46 @@ Tenho interesse em IA, Engenharia de Dados e séries temporais, com foco em cons
 
 ---
 
-## 📈 Activity:
+## Activity:
 ![](https://github-readme-activity-graph.vercel.app/graph?username=fernandasouzx&theme=tokyo-night)
 
 ---
-
-## 🚀 Principais Repositórios
+## Principais Repositórios
 
 <p align="center">
-  <a href="https://github.com/fernandasouzx/NOME-DO-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=NOME-DO-REPO&theme=tokyonight"/>
+  <a href="https://github.com/fernandasouzx/GERADOR_CONTEUDO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=GERADOR_CONTEUDO&theme=tokyonight"/>
   </a>
 
-  <a href="https://github.com/fernandasouzx/NOME-DO-REPO2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=NOME-DO-REPO2&theme=tokyonight"/>
+  <a href="https://github.com/fernandasouzx/PREDICAO_COVID_IA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=PREDICAO_COVID_IA&theme=tokyonight"/>
   </a>
 </p>
 
-## 🚀 Featured Projects:
+<p align="center">
+  <a href="https://github.com/fernandasouzx/PROBLEMA_N_RAINHAS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=PROBLEMA_N_RAINHAS&theme=tokyonight"/>
+  </a>
 
-🔊 **TTS/STT com IA**  
-Processamento de áudio com foco em síntese e reconhecimento de fala  
-
-📊 **Séries Temporais**  
-Análise exploratória e criação de features para modelagem preditiva  
-
-⚙️ **Pipeline de Dados (ETL)**  
-Construção de pipelines para ingestão, tratamento e disponibilização de dados para BI  
+  <a href="https://github.com/fernandasouzx/ORGANIZACAO_HIERARQUICA_DE_DADOS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fernandasouzx&repo=ORGANIZACAO_HIERARQUICA_DE_DADOS&theme=tokyonight"/>
+  </a>
+</p>
 
 ---
+
+### Sobre os projetos
+
+🔊 **Gerador de Conteúdo**  
+Aplicação para geração automatizada de conteúdo utilizando técnicas de IA  
+
+🦠 **Predição de COVID com IA**  
+Modelo preditivo para análise de dados epidemiológicos  
+
+♟️ **Problema das N-Rainhas**  
+Implementação de algoritmo clássico com foco em lógica e otimização  
+
+🗂️ **Organização Hierárquica de Dados**  
+Estruturação e manipulação de dados em formato hierárquico  
 
 ![](https://visitcount.itsvg.in/api?id=fernandasouzx&icon=0&color=0)
